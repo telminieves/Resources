@@ -1046,7 +1046,7 @@ b = 4.5
 print("Division:", a / b)
 
 # Integer Division
-print("Integer Division:", a // b, "is", type(a//b))
+print("Integer division:", a // b, "is", type(a//b))
 
 # Modulus
 print("Modulus:", a % b)
@@ -5335,11 +5335,11 @@ Produce a scatter plot of Young Modulus vs Melting Point for the metals in the d
 
  
 
-###### Answer 
+##### Answer 
 
  
 
-###### Solution 
+##### Solution 
 
  
 
