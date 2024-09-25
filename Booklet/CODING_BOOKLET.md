@@ -4326,6 +4326,7 @@ The derivative can be approximated by the method of **finite differences**:
 $$ u'_n = \frac{ u_{n+1} - u_{n} }{ \Delta t } $$
 
 Here,
+
 - $u_{n+1}$ is the solution at the next time step.
 - $u_n$ is the solution at the current time step.
 - $t_n$ is the time of the current time step.
